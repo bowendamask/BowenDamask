@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BowenDamask (He/Him/They)
-- 👀 I’m a PhD student in Political Science at Washington University. I'm primarily interested in Econometrics, Formal (Game) Theory, Political Economy, and American Politics.
+- 👀 I’m a PhD student in Political Science at Washington University. I'm primarily interested in Econometrics, Formal (Game) Theory, Political Economy (broadly defined), and American Politics.
 - 🌲 I previously worked in Finance as a Quant Research Analyst. Before that I studied Political Economy at the University of Chicago.
 - 🖥️ In my spare time I focus on statistical programming (and occasionally maximizing ⍺)
 - 🧠 I’m looking to collaborate on anything Political Economy/American Politics related
