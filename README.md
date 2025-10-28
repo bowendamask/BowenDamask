@@ -3,7 +3,7 @@
 - 🙈 I'm primarily interested in Econometrics, Formal (Game) Theory, Political Economy (broadly defined), and American Politics
 - 🌲 I previously worked in Finance as a Quant Analyst. Before that I studied Political Economy at the University of Chicago
 - 🖥️ In my spare time I focus on statistical programming (and occasionally maximizing ⍺)
-- 🧠 I’m looking to collaborate on anything Political Economy/American Politics related
+- 🧠 I’m looking to collaborate on anything Political Economy/Methodology related
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 - 📬 Message me via Terminal/IB Chat
 
