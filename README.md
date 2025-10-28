@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BowenGreen (He/Him/They)
-- 👀 I’m interested in Econometrics, Game Theory, Political Economy, American Politics, and Accountablity
+- 👋 Hi, I’m @BowenDamask (He/Him/They)
+- 👀 I’m interested in Econometrics, Game Theory, Political Economy, and American Politics.
 - 🌲 I’m currently learning about ARIMA Models
 - 🖥️ Statistical programming, maximizing ⍺
 - 🧠 I’m looking to collaborate on anything Political Economy/American Politics related
