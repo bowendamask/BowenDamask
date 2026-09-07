@@ -18,17 +18,17 @@
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=BowenDamask&rank_icon=github&theme=dark#gh-dark-mode-only&custom_title=Statistics&card_width=320" />
   </picture>
 </a>
-<a href="https://github.com/NickCH-K/convoychat">
+<a href="https://github.com/BowenDamask/convoychat">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NickCH-K&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BowenDamask&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=320"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NickCH-K&theme=light&layout=compact&hide_progress=true&langs_count=8&card_width=320"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=BowenDamask&theme=light&layout=compact&hide_progress=true&langs_count=8&card_width=320"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NickCH-K&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BowenDamask&theme=dark&layout=compact&hide_progress=true&langs_count=8&card_width=320" />
   </picture>
 </a>
 
