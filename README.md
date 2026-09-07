@@ -5,7 +5,6 @@
 - 👾 Hobbies: Catan, Poker, Go, Chess, Hiking
 - 📬 Message me via Terminal/IB Chat
 
-![stats](https://github-readme-stats.vercel.app/api?username=BowenDamask&theme=dark)
 
 
 
